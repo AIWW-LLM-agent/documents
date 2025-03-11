@@ -151,5 +151,5 @@ Pull request в Main с коротким описанием изменений
 ```
 
 **Диаграмма архитектуры**
-![diagram](media/img.png)
+![diagram](media/img.jpeg)
 
